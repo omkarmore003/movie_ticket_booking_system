@@ -139,7 +139,7 @@ include('footer.php');
       }
 
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDfO40iueprTDv0WCf0BCIlbj56JO-HylA&libraries=places&callbackinitAutocomplete"
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDfO40iueprv0WCf0BCIlbj56JO-HylA&libraries=places&callbackinitAutocomplete"
             async defer></script>
             <script>
         <?php $frm->applyvalidations("form1");?>
